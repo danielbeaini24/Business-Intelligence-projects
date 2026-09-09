@@ -30,6 +30,9 @@ An interactive Excel dashboard developed to analyze bike sales performance and i
 **Tools:** Microsoft Excel, PivotTables, Excel formulas, Charts
 
 
+![Bike Sales Dashboard](Bike-Sales-Dashboard.png)
+
+
 ### Coffee Shop Sales Dashboard — Microsoft Excel
 
 An interactive Excel dashboard analyzing coffee shop sales data to identify trends and understand product performance.
@@ -44,6 +47,9 @@ An interactive Excel dashboard analyzing coffee shop sales data to identify tren
 * Business insights
 
 **Tools:** Microsoft Excel, PivotTables, Excel formulas, Charts
+
+
+![Coffee Shop Dashboard](Coffee-Shop-Sales-Dashboard.png)
 
 
 ## About Me
