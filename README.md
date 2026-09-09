@@ -30,7 +30,7 @@ An interactive Excel dashboard developed to analyze bike sales performance and i
 **Tools:** Microsoft Excel, PivotTables, Excel formulas, Charts
 
 
-![Bike Sales Dashboard](Bike-Sales-Dashboard.png)
+![Bike Sales Dashboard](https://github.com/danielbeaini24/Business-Intelligence-projects/blob/main/Bike-Sales-Dashboard.png.png)
 
 
 ### Coffee Shop Sales Dashboard — Microsoft Excel
