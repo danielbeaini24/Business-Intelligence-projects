@@ -49,7 +49,7 @@ An interactive Excel dashboard analyzing coffee shop sales data to identify tren
 **Tools:** Microsoft Excel, PivotTables, Excel formulas, Charts
 
 
-![Coffee Shop Dashboard](Coffee-Shop-Sales-Dashboard.png)
+![Coffee Shop Dashboard](Coffee-Shop-Sales-Dashboard.png.png)
 
 
 ## About Me
