@@ -1,6 +1,5 @@
 # Commercial Pricing Analytics — SQL Server
 
-
 ## Dataset
 
 **E-Commerce Dataset** available on Kaggle.
@@ -9,15 +8,15 @@
 
 1. Product Category Analysis
 
-01_product_category_analysis.sql
+   `01_product_category_analysis.sql`
 
 2. Customer Revenue Behavior
 
-02_customer_revenue_behavior.sql
+   `02_customer_revenue_behavior.sql`
 
 3. Salesperson & Employee Performance
 
-03_salesperson_employee_performance.sql
+   `03_salesperson_employee_performance.sql`
 
 ## Key Business Insights
 
@@ -26,5 +25,3 @@
 * **Customer Concentration:** The Top 10 customers represented approximately **0.45%** of total revenue, indicating a highly diversified customer base.
 * **Profitability:** Gross profit was approximately **$11.69M**, representing an overall gross margin of **39.8%**.
 * **Pricing Opportunities:** No customers fell below the illustrative **20% gross-margin threshold** used for the pricing-review analysis.
-
-
