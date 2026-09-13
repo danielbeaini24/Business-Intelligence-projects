@@ -16,12 +16,14 @@ Welcome to my Business Intelligence portfolio. This repository showcases project
 ## Projects
 
 ### EXCEL
-#Bike Sales Dashboard — Microsoft ExceL
-#Coffee Shop Sales Dashboard — Microsoft Excel
+Bike Sales Dashboard — Microsoft ExceL  
+
+Coffee Shop Sales Dashboard — Microsoft Excel
 
 
 ### SQL
-#Commercial Pricing Analytics
+#Commercial Pricing Analytics  
+
 #Sales Performance & Revenue
 
 
