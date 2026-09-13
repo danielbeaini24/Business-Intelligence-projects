@@ -3,7 +3,7 @@
 
 ## Dataset
 
-The project uses the **E-Commerce Dataset** available on Kaggle.
+**E-Commerce Dataset** available on Kaggle.
 
 ### Phase 1 — Revenue & Customer Performance
 
