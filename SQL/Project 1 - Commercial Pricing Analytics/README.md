@@ -51,5 +51,4 @@ Analyzed:
 * **Profitability:** Gross profit was approximately **$11.69M**, representing an overall gross margin of **39.8%**.
 * **Pricing Opportunities:** No customers fell below the illustrative **20% gross-margin threshold** used for the pricing-review analysis.
 
-pricing policies or proprietary benchmarks.
 
