@@ -14,42 +14,13 @@ Welcome to my Business Intelligence portfolio. This repository showcases project
 
 ## Projects
 
-### Bike Sales Dashboard — Microsoft Excel
-
-An interactive Excel dashboard developed to analyze bike sales performance and identify key business trends.
-
-**Key areas:**
-
-* Sales performance analysis
-* Customer segmentation
-* Product analysis
-* KPI tracking
-* Data visualization
-* Interactive dashboard development
-
-**Tools:** Microsoft Excel, PivotTables, Excel formulas, Charts
-
-
-![Bike Sales Dashboard](https://github.com/danielbeaini24/Business-Intelligence-projects/blob/main/Bike-Sales-Dashboard.png.png)
-
-
+### EXCEL
+### Bike Sales Dashboard — Microsoft ExceL
 ### Coffee Shop Sales Dashboard — Microsoft Excel
 
-An interactive Excel dashboard analyzing coffee shop sales data to identify trends and understand product performance.
-
-**Key areas:**
-
-* Sales performance
-* Product and category analysis
-* Time-based sales trends
-* KPI reporting
-* Data visualization
-* Business insights
-
-**Tools:** Microsoft Excel, PivotTables, Excel formulas, Charts
-
-
-![Coffee Shop Dashboard](Coffee-Shop-Sales-Dashboard.png.png)
+### SQL
+### Commercial Pricing Analytics
+### Sales Performance & Revenue
 
 
 ## About Me
