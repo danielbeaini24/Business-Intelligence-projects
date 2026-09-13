@@ -1,16 +1,5 @@
-# Commercial & Pricing Analytics — SQL Server
+# Commercial Pricing Analytics — SQL Server
 
-
-## Business Objective
-
-The objective is to use transactional, customer, and product data to:
-
-* Analyze revenue and customer performance
-* Measure profitability and gross margins
-* Identify high-value and low-margin customers
-* Evaluate product and category performance
-* Identify potential pricing-review opportunities
-* Support commercial decision-making with data
 
 ## Dataset
 
