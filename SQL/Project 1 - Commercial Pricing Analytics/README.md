@@ -5,6 +5,20 @@
 
 **E-Commerce Dataset** available on Kaggle.
 
+## SQL Analysis
+
+1. Product Category Analysis
+
+01_product_category_analysis.sql
+
+2. Customer Revenue Behavior
+
+02_customer_revenue_behavior.sql
+
+3. Salesperson & Employee Performance
+
+03_salesperson_employee_performance.sql
+
 ## Key Business Insights
 
 * **Revenue:** 60,398 transactions generated approximately **$29.36M** in total revenue.
