@@ -1,1 +1,12 @@
+An interactive Excel dashboard developed to analyze bike sales performance and identify key business trends.
 
+Key areas:
+
+Sales performance analysis
+Customer segmentation
+Product analysis
+KPI tracking
+Data visualization
+Interactive dashboard development
+Tools: Microsoft Excel, PivotTables, Excel formulas, Charts
+https://github.com/danielbeaini24/Business-Intelligence-projects/blob/main/Excel/Project%201%20-%20Bike%20Sales%20Dashboard/Bike-Sales-Dashboard.png.png
