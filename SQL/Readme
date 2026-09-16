@@ -1,27 +1,75 @@
-# Commercial Pricing Analytics — SQL Server
+# SQL Projects
 
-## Dataset
+This section contains SQL Server projects focused on transforming business data into actionable insights through data analysis, KPI development, and advanced SQL techniques.
 
-**E-Commerce Dataset** available on Kaggle.
+## Projects
 
-## SQL Analysis
+### 1. Commercial Pricing Analytics — SQL Server
 
-1. Product Category Analysis
+An SQL Server analytics project focused on commercial performance, pricing, revenue, profitability, customer behavior, and pricing opportunities.
 
-   `01_product_category_analysis.sql`
+**Key areas:**
 
-2. Customer Revenue Behavior
+* Product and category analysis
+* Customer revenue behavior
+* Profitability and margin analysis
+* Pricing opportunities
+* Revenue and transaction analysis
 
-   `02_customer_revenue_behavior.sql`
+**SQL techniques:**
 
-3. Salesperson & Employee Performance
+* CTEs
+* Aggregations
+* Window functions
+* Ranking
+* Conditional logic
+* Business KPI calculations
 
-   `03_salesperson_employee_performance.sql`
+[View Project →](./Project%201%20-%20Commercial%20Pricing%20Analytics/)
 
-## Key Business Insights
+---
 
-* **Revenue:** 60,398 transactions generated approximately **$29.36M** in total revenue.
-* **Transaction Value:** Average transaction value was approximately **$486**.
-* **Customer Concentration:** The Top 10 customers represented approximately **0.45%** of total revenue, indicating a highly diversified customer base.
-* **Profitability:** Gross profit was approximately **$11.69M**, representing an overall gross margin of **39.8%**.
-* **Pricing Opportunities:** No customers fell below the illustrative **20% gross-margin threshold** used for the pricing-review analysis.
+### 2. Sales Performance & Revenue Intelligence — SQL Server
+
+An end-to-end sales analytics project analyzing executive sales performance, product and category intelligence, customer behavior, and salesperson performance.
+
+**Key areas:**
+
+* Executive sales performance
+* Revenue and monthly growth analysis
+* Product and category performance
+* Customer revenue and behavior
+* Customer segmentation
+* Salesperson performance
+* Revenue contribution and benchmarking
+
+**SQL techniques:**
+
+* CTEs
+* Window functions
+* `RANK()`
+* `LAG()`
+* `COUNT(DISTINCT)`
+* Conditional logic
+* Benchmarking
+* Revenue and AOV calculations
+
+[View Project →](./Project%202%20-%20Sales%20Performance%20%26%20Revenue%20Intelligence/)
+
+---
+
+## SQL Skills Demonstrated
+
+Across these projects, I apply SQL Server to answer business questions and translate raw data into measurable business insights.
+
+* Data exploration and validation
+* Data aggregation and KPI development
+* Revenue and profitability analysis
+* Customer analysis
+* Product and category analysis
+* Sales performance analysis
+* Ranking and comparative analysis
+* Window functions
+* CTEs
+* Conditional segmentation
+* Business-oriented analytical thinking
