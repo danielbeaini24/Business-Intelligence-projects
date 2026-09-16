@@ -2,7 +2,7 @@
 
 ## Dataset
 
-**E-Commerce Sales Dataset** used to analyze overall sales performance, product and category performance, customer behavior, and salesperson performance.
+**E-Commerce Sales Dataset** 
 
 ## SQL Analysis
 
