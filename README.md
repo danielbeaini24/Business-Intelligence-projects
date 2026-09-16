@@ -16,21 +16,21 @@ Welcome to my Business Intelligence portfolio. This repository showcases project
 
 ### EXCEL
 
-### Project 1 - Bike Sales Dashboard — Microsoft Excel
+Project 1 - Bike Sales Dashboard — Microsoft Excel
 
 [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/Excel/Project%201%20-%20Bike%20Sales%20Dashboard)
 
-### Project 2 - Coffee Shop Sales Dashboard — Microsoft Excel
+Project 2 - Coffee Shop Sales Dashboard — Microsoft Excel
 
 [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/Excel/Project%202%20-%20Coffee%20Shop%20Sales%20Dashboard)
 
 ### SQL
 
-### Project 1 - Commercial Pricing Analytics
+Project 1 - Commercial Pricing Analytics
 
 [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/SQL/Project%201%20-%20Commercial%20Pricing%20Analytics)
 
-### Project 2 - Sales Performance & Revenue
+Project 2 - Sales Performance & Revenue
 
 [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/SQL/Project%202%20-%20Sales%20Performance%20%26%20Revenue%20Intelligence)
 
