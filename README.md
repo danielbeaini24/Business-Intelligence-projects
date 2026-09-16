@@ -1,6 +1,8 @@
 # Business Intelligence Portfolio
 
-Welcome to my Business Intelligence portfolio. This repository showcases projects focused on data analysis, dashboard development, KPI reporting, and business insights.
+Welcome to my Business Intelligence portfolio, showcasing practical projects focused on commercial analytics, pricing analysis, revenue performance, KPI reporting, dashboard development, and data-driven business insights.
+
+My background in Banking & Finance, Growth, and SaaS Sales has led me to develop a strong interest in using data to understand customer behavior, commercial performance, revenue trends, and business opportunities.
 
 ## Tools & Technologies
 
@@ -36,6 +38,8 @@ Project 2 - Sales Performance & Revenue
 
 ## About Me
 
-I have a background in Banking & Finance and professional experience in Growth and SaaS Sales. I am developing my career toward Business Intelligence and Data Analytics, with a focus on transforming data into actionable business insights.
+I have a background in Banking & Finance and professional experience in Growth and SaaS Sales.
 
-Currently strengthening my skills in SQL, Excel, Tableau, and Power BI, with a focus on data visualization, dashboard development, and business performance analysis. rds, KPI reporting, and actionable business insights.
+I am developing my career toward Commercial Analytics, Pricing, Business Intelligence, and Data Analytics, with a focus on transforming business data into actionable insights.
+
+My current analytical toolkit includes Excel, SQL, Tableau, and Power BI, with a particular interest in commercial performance, pricing, revenue analysis, customer behavior, and dashboard development.
