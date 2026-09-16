@@ -1,71 +1,37 @@
-# SQL Projects
+# Business Intelligence Portfolio
 
-This section contains SQL Server projects focused on transforming business data into actionable insights through data analysis, KPI development, and advanced SQL techniques.
+Welcome to my Business Intelligence portfolio. This repository showcases projects focused on data analysis, dashboard development, KPI reporting, and business insights.
+
+## Tools & Technologies
+
+* Microsoft Excel
+* SQL
+* Tableau
+* Power BI
+* Data Visualization
+* Data Analysis
+* Business Intelligence
 
 ## Projects
 
-### 1. Commercial Pricing Analytics — SQL Server
+### EXCEL
 
-An SQL Server analytics project focused on commercial performance, pricing, revenue, profitability, customer behavior, and pricing opportunities.
+* Project 1 - Bike Sales Dashboard — Microsoft Excel
+  [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/Excel/Project%201%20-%20Bike%20Sales%20Dashboard)
 
-**Key areas:**
-- Product and category analysis
-- Customer revenue behavior
-- Profitability and margin analysis
-- Pricing opportunities
-- Revenue and transaction analysis
+* Project 2 - Coffee Shop Sales Dashboard — Microsoft Excel
+  [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/Excel/Project%202%20-%20Coffee%20Shop%20Sales%20Dashboard)
 
-**SQL techniques:**
-- CTEs
-- Aggregations
-- Window functions
-- Ranking
-- Conditional logic
-- Business KPI calculations
+### SQL
 
-[View Project →](./Project%201%20-%20Commercial%20Pricing%20Analytics/)
+* Project 1 - Commercial Pricing Analytics
+  [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/SQL/Project%201%20-%20Commercial%20Pricing%20Analytics)
 
----
+* Project 2 - Sales Performance & Revenue
+  [View Project →](https://github.com/danielbeaini24/Business-Intelligence-projects/tree/main/SQL/Project%202%20-%20Sales%20Performance%20%26%20Revenue%20Intelligence)
 
-### 2. Sales Performance & Revenue Intelligence — SQL Server
+## About Me
 
-An end-to-end sales analytics project analyzing executive sales performance, product and category intelligence, customer behavior, and salesperson performance.
+I have a background in Banking & Finance and professional experience in Growth and SaaS Sales. I am developing my career toward Business Intelligence and Data Analytics, with a focus on transforming data into actionable business insights.
 
-**Key areas:**
-- Executive sales performance
-- Revenue and monthly growth analysis
-- Product and category performance
-- Customer revenue and behavior
-- Customer segmentation
-- Salesperson performance
-- Revenue contribution and benchmarking
-
-**SQL techniques:**
-- CTEs
-- Window functions
-- `RANK()`
-- `LAG()`
-- `COUNT(DISTINCT)`
-- Conditional logic
-- Benchmarking
-- Revenue and AOV calculations
-
-[View Project →](./Project%202%20-%20Sales%20Performance%20%26%20Revenue%20Intelligence/)
-
----
-
-## SQL Skills Demonstrated
-
-Across these projects, I apply SQL Server to answer business questions and translate raw data into measurable business insights.
-
-- Data exploration and validation
-- Data aggregation and KPI development
-- Revenue and profitability analysis
-- Customer analysis
-- Product and category analysis
-- Sales performance analysis
-- Ranking and comparative analysis
-- Window functions
-- CTEs
-- Conditional segmentation
-- Business-oriented analytical thinking
+Currently strengthening my skills in SQL, Excel, Tableau, and Power BI, with a focus on data visualization, dashboard development, and business performance analysis. rds, KPI reporting, and actionable business insights.
