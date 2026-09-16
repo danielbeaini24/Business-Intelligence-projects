@@ -9,21 +9,19 @@ This section contains SQL Server projects focused on transforming business data 
 An SQL Server analytics project focused on commercial performance, pricing, revenue, profitability, customer behavior, and pricing opportunities.
 
 **Key areas:**
-
-* Product and category analysis
-* Customer revenue behavior
-* Profitability and margin analysis
-* Pricing opportunities
-* Revenue and transaction analysis
+- Product and category analysis
+- Customer revenue behavior
+- Profitability and margin analysis
+- Pricing opportunities
+- Revenue and transaction analysis
 
 **SQL techniques:**
-
-* CTEs
-* Aggregations
-* Window functions
-* Ranking
-* Conditional logic
-* Business KPI calculations
+- CTEs
+- Aggregations
+- Window functions
+- Ranking
+- Conditional logic
+- Business KPI calculations
 
 [View Project →](./Project%201%20-%20Commercial%20Pricing%20Analytics/)
 
@@ -34,25 +32,23 @@ An SQL Server analytics project focused on commercial performance, pricing, reve
 An end-to-end sales analytics project analyzing executive sales performance, product and category intelligence, customer behavior, and salesperson performance.
 
 **Key areas:**
-
-* Executive sales performance
-* Revenue and monthly growth analysis
-* Product and category performance
-* Customer revenue and behavior
-* Customer segmentation
-* Salesperson performance
-* Revenue contribution and benchmarking
+- Executive sales performance
+- Revenue and monthly growth analysis
+- Product and category performance
+- Customer revenue and behavior
+- Customer segmentation
+- Salesperson performance
+- Revenue contribution and benchmarking
 
 **SQL techniques:**
-
-* CTEs
-* Window functions
-* `RANK()`
-* `LAG()`
-* `COUNT(DISTINCT)`
-* Conditional logic
-* Benchmarking
-* Revenue and AOV calculations
+- CTEs
+- Window functions
+- `RANK()`
+- `LAG()`
+- `COUNT(DISTINCT)`
+- Conditional logic
+- Benchmarking
+- Revenue and AOV calculations
 
 [View Project →](./Project%202%20-%20Sales%20Performance%20%26%20Revenue%20Intelligence/)
 
@@ -62,14 +58,14 @@ An end-to-end sales analytics project analyzing executive sales performance, pro
 
 Across these projects, I apply SQL Server to answer business questions and translate raw data into measurable business insights.
 
-* Data exploration and validation
-* Data aggregation and KPI development
-* Revenue and profitability analysis
-* Customer analysis
-* Product and category analysis
-* Sales performance analysis
-* Ranking and comparative analysis
-* Window functions
-* CTEs
-* Conditional segmentation
-* Business-oriented analytical thinking
+- Data exploration and validation
+- Data aggregation and KPI development
+- Revenue and profitability analysis
+- Customer analysis
+- Product and category analysis
+- Sales performance analysis
+- Ranking and comparative analysis
+- Window functions
+- CTEs
+- Conditional segmentation
+- Business-oriented analytical thinking
